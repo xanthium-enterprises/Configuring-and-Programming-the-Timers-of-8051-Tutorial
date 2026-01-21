@@ -2,15 +2,23 @@
 
 - This repo contains a complete beginner-to-intermediate tutorial on programming and configuring the Timers of 8051 / 8052 microcontrollers using Embedded C.
 
-The tutorial explains Timer concepts,Timer modes, registers, delay calculations, polling vs interrupts, and provides working source codes (.c) compiled using Keil uVision and SDCC (Small Device C Compiler).
+- The tutorial explains 8051 Timer concepts,Timer modes, registers, delay calculations, polling vs interrupts, and provides working source codes (.c) compiled using **Keil uVision** and **SDCC (Small Device C Compiler)**.
 
-##What You Will Learn
+## Online tutorial 
+
+- [8051 / 8052 Timer Programming Tutorial using Embedded C](https://www.xanthium.in/how-to-program-mode-16-bit-timers-of-8051-w78e052ddg-in-embedded-c)
+
+## 8051 Embedded Systems Development Kit
+
+- [8051 Embedded Systems Development Kit – Complete with ADC0804, Opamp,ULN2003, and 7-Segment Displays](https://www.xanthium.in/nuvoton-w78e052-8051-development-board-usb-programmer-lm35-adc-0804-0809-relay-7segment-interfacing-kit)
+
+## What You Will Learn
 
 - How 8051 / 8052 timers work internally
 
-- Difference between Timer mode and Counter mode
+- Difference between Timer mode and Counter mode in 8051
 
-- Timer operating modes: Mode 0, Mode 1, Mode 2, Mode 3
+- Explanation of different 8051 Timer operating modes: Mode 0, Mode 1, Mode 2, Mode 3
 
 - How to configure TMOD (Timer Mode Register) of 8051/8052
 
@@ -18,9 +26,9 @@ The tutorial explains Timer concepts,Timer modes, registers, delay calculations,
 
 - How to configure IE (Interrupt Enable Register) of 8051/8052 for interrupt programming
 
-- How to calculate timer reload values for accurate delays
+- How to calculate timer reload values for 8051 Timer
 
-- How to generate the following delays
+- How to generate the following delays using 8051
 
 	- 71.1 ms delay
 
@@ -32,9 +40,9 @@ The tutorial explains Timer concepts,Timer modes, registers, delay calculations,
 
 - Writing 8051 Timer ISRs in
 
-- Keil uVision
+	- Keil uVision
 
-- SDCC
+	- SDCC
 
 
 ## Target Microcontrollers
