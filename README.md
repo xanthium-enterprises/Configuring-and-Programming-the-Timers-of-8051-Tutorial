@@ -1,6 +1,6 @@
 # Tutorial on Configuring and Programming the Timers of 8051/8052 in embedded C
 
-[Tutorial on Configuring and Programming the Timers of 8051/8052  in embedded C](img/generate-1sec-delay-8051-timer0-tutorial.jpg)
+![Tutorial on Configuring and Programming the Timers of 8051/8052  in embedded C](img/generate-1sec-delay-8051-timer0-tutorial.jpg)
 
 - This repo contains a complete beginner-to-intermediate tutorial on programming and configuring the Timers of 8051 / 8052 microcontrollers using Embedded C.
 
