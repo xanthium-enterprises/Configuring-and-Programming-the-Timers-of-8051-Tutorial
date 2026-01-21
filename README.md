@@ -6,6 +6,8 @@
 
 - The tutorial explains 8051 Timer concepts,Timer modes, registers, delay calculations, polling vs interrupts, and provides working source codes (.c) compiled using **Keil uVision** and **SDCC (Small Device C Compiler)**.
 
+- ![How 8051 / 8052 timers work internally](img/block-diagram-8051-timer-mode1.jpg)
+
 ## Online tutorial 
 
 - [8051 / 8052 Timer Programming Tutorial using Embedded C](https://www.xanthium.in/how-to-program-mode-16-bit-timers-of-8051-w78e052ddg-in-embedded-c)
